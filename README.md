@@ -10,4 +10,6 @@ Ataki (0) zablokowano (562)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku (18.99%)
+Dotarcie Pliku (19.99%)
+
+( uruchomiono = tryby watowe )
