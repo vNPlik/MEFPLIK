@@ -6,7 +6,7 @@
 
 Błędy (0)
 
-Ataki (0) zablokowano (562)
+Ataki (0) zablokowano (1222)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
