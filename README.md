@@ -10,6 +10,6 @@ Ataki (0) zablokowano (562)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku (20.99%) ✓ 
+Dotarcie Pliku (22.99%) ✓ 
 
 ( uruchomiono = docieranie)
