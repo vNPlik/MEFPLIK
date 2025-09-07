@@ -2,14 +2,16 @@
 
 
 
-(!) Stan Pliku (100%)
+(!) Stan Pliku (100%) (!) 
 
-Błędy (0) - 
+Błędy (0) - brak 
 
-Ataki (0) zablokowano (1222)
+Ataki (0) zablokowano (1872)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
 Dotarcie Pliku (40.00%) ✓ = Połączenie USB
+
+proszę czekać 10:02
 
 ( uruchomiono = docieranie)
