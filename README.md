@@ -10,6 +10,6 @@ Ataki (0) zablokowano (1222)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku (40.00) ✓ 
+Dotarcie Pliku (40.00%) ✓ = Połączenie USB
 
 ( uruchomiono = docieranie)
