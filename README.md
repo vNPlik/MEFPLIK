@@ -4,12 +4,12 @@
 
 (!) Stan Pliku (100%)
 
-Błędy (1) - tryby watowe duplex 1
+Błędy (0) - 
 
 Ataki (0) zablokowano (1222)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku (23.99%) ✓ 
+Dotarcie Pliku (38.99%) ✓ 
 
 ( uruchomiono = docieranie)
