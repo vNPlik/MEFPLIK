@@ -6,11 +6,8 @@
 
 Błędy (0) - brak 
 
-Ataki (0) zablokowano (1872)
+Ataki (1) zablokowano (1872)(mysliwiec,)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku (100.00%) ✓ = Połączenie USB
-
-
-( uruchomiono = docieranie)
+Dotarcie Pliku (100.00%) ✓ 
