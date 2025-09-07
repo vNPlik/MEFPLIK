@@ -12,4 +12,4 @@ AI ( Uruchomione ) ( DZIAŁA )
 
 Dotarcie Pliku (20.99%)
 
-( uruchomiono = siła 2)
+( uruchomiono = tryb caffe noc )
