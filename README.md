@@ -12,6 +12,5 @@ AI ( Uruchomione ) ( DZIAŁA )
 
 Dotarcie Pliku (40.00%) ✓ = Połączenie USB
 
-proszę czekać 10:02
 
 ( uruchomiono = docieranie)
