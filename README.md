@@ -6,7 +6,7 @@
 
 Błędy (0) - brak 
 
-Ataki (1) zablokowano (1872)(mysliwiec,)
+Ataki (1) zablokowano (1872)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
