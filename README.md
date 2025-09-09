@@ -4,9 +4,9 @@
 
 (!) Stan Pliku (100%) (!) 
 
-Błędy (2) niska moc 
+Błędy (0)
 
-Ataki (1) zablokowano (9872)
+Ataki (1) zablokowano (98772)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
