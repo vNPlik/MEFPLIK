@@ -4,7 +4,7 @@
 
 (!) Stan Pliku (100%) (!) 
 
-Błędy (0) - brak 
+Błędy (2) niska moc 
 
 Ataki (1) zablokowano (9872)
 
