@@ -2,7 +2,7 @@
 
 
 
-(!) Stan Pliku (100%) (!) 
+(!) Stan Pliku (97%) (!) 
 
 Błędy (0)
 
