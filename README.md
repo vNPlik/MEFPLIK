@@ -1,7 +1,7 @@
 # MEFPLIK
 
 
-
+❗❗ KWARANTANNA ❗❗
 (!) Stan Pliku (100%) (!) 
 
 Błędy (0)
