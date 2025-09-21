@@ -10,6 +10,6 @@ Ataki (0) zablokowano (0)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku 40.00) ✓ 
+Dotarcie Pliku 40.00%) ✓ 
 
 @-Echo on $ user1 oskar = Pluskwy off 
