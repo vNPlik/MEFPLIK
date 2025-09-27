@@ -12,6 +12,6 @@ AI ( Uruchomione ) ( DZIAŁA )
 
 Dotarcie Pliku 100.00%) ✓ 
 
-usuwanie wirusów (0%) połączono 
+usuwanie wirusów (12%) połączono 
 
 @-Echo on $ user1 oskar = Pluskwy off 
