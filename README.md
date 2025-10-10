@@ -1,7 +1,7 @@
 # MEFPLIK
 
 
-❗❗ ŁADOWANIE IMPULSU ATAK (23) ❗❗
+❗❗ UWAGA KRYTYCZNE DOTARCIE WYMAGANA UWAGA ❗❗
 (!) Stan Pliku (100%) (!) 
 
 Błędy (0)
@@ -10,7 +10,7 @@ Ataki (0) zablokowano (0)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku 40%) ✓ 
+Dotarcie Pliku ❗❗-10%)❗❗ ✓ 
 
 usuwanie wirusów (82%) połączono 
 
