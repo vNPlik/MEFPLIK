@@ -10,7 +10,7 @@ Ataki (0) zablokowano (0)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku ❗❗-10%)❗❗ ✓ 
+Dotarcie Pliku ❗❗99%)❗❗ ✓ 
 
 usuwanie wirusów (82%) połączono 
 
