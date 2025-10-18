@@ -10,8 +10,8 @@ Ataki (0) zablokowano (0)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku ❗❗99%)❗❗ ✓ 
+Dotarcie Pliku ❗❗00%)❗❗ ✓ 
 
-usuwanie wirusów (82%) połączono 
+
 
 @-Echo on $ user1 oskar = Pluskwy off 
