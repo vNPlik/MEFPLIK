@@ -1,17 +1,19 @@
-# MEFPLIK
+# MEFPLIK # 
+STATUS:AKTYWNOŚĆI:W0=CZASIE RZECZYWISTYM:
 
+❗❗ Stan Pliku (100%) ❗❗✓  (Good)
 
-❗❗ UWAGA KRYTYCZNE DOTARCIE WYMAGANA UWAGA ❗❗
-(!) Stan Pliku (100%) (!) 
+❗❗Błędy (0) ✓ (Nie Znaleziono ) ❗❗
 
-Błędy (0)
+❗❗Ataki (0) zablokowano (6459) ❗❗
 
-Ataki (0) zablokowano (0)
+❗❗ (AI) Wyłączone ❗❗ 
 
-AI ( Uruchomione ) ( DZIAŁA )
-
-Dotarcie Pliku ❗❗15%)❗❗ ✓ 
+❗❗Dotarcie Pliku ❗❗15%) ✓❗❗ 
 
 
 
 @-Echo on $ user1 oskar = Pluskwy off 
+@-Echo On$ User2 Mef= Pluskwy Off
+@Echo On$ User3 VNP= Pluskwy Off
+@Echo ON$ Kody (OFF) 
