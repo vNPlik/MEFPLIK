@@ -10,7 +10,7 @@ Ataki (0) zablokowano (0)
 
 AI ( Uruchomione ) ( DZIAŁA )
 
-Dotarcie Pliku ❗❗00%)❗❗ ✓ 
+Dotarcie Pliku ❗❗15%)❗❗ ✓ 
 
 
 
