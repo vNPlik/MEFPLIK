@@ -1,15 +1,15 @@
 # MEFPLIK # 
 STATUS:AKTYWNOŚĆI:W0=CZASIE RZECZYWISTYM:
 
-❗❗ Stan Pliku (100%) ❗❗✓  (Good)
+❗❗ Stan Pliku (10%) ❗❗✓  (zniszczona baza)
 
 ❗❗Błędy (0) ✓ (Nie Znaleziono ) ❗❗
 
-❗❗Ataki (0) zablokowano (6459) ❗❗
+❗❗Ataki (0) zablokowano (0) ❗❗
 
 ❗❗ (AI) Wyłączone ❗❗ 
 
-❗❗Dotarcie Pliku ❗❗15%) ✓❗❗ 
+❗❗Dotarcie Pliku ❗❗0%) ✓❗❗ 
 
 
 
