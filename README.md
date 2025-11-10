@@ -1,7 +1,7 @@
 # MEFPLIK # 
 STATUS:AKTYWNOŚĆI:W0=CZASIE RZECZYWISTYM:
 
-❗❗ Stan Pliku (10%) ❗❗✓  (zniszczona baza)
+❗❗ Stan Pliku (1100%) ❗❗✓  (zniszczona baza)
 
 ❗❗Błędy (0) ✓ (Nie Znaleziono ) ❗❗
 
@@ -9,7 +9,7 @@ STATUS:AKTYWNOŚĆI:W0=CZASIE RZECZYWISTYM:
 
 ❗❗ (AI) Wyłączone ❗❗ 
 
-❗❗Dotarcie Pliku ❗❗0%) ✓❗❗ 
+❗❗Dotarcie Pliku ❗❗55%) ✓❗❗ 
 
 
 
