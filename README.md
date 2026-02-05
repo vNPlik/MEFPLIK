@@ -1,16 +1,16 @@
 # MEFPLIK # 
 STATUS:AKTYWNOŚĆI:W0=CZASIE RZECZYWISTYM:
 
-❗❗ Stan Pliku (1100%) ❗❗✓  (zniszczona baza)
+❗❗ Stan Pliku (1100%) ❗❗✓ 
 
-❗❗Błędy (0) ✓ (Nie Znaleziono ) ❗❗
+❗❗Błędy (23) ✓ (Nie Znaleziono ) ❗❗
 
 ❗❗Ataki (0) zablokowano (0) ❗❗
 
-❗❗ (AI) Wyłączone ❗❗ 
+❗❗ (AI) Włączone  ❗❗ 
 
-❗❗Dotarcie Pliku ❗❗55%) ✓❗❗ 
-
+❗❗Dotarcie Pliku ❗❗{100) ✓❗❗ 
+❗❗ Dotarcie Beata ❗❗ (0) 
 
 
 @-Echo on $ user1 oskar = Pluskwy off 
